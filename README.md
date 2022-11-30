@@ -1,1 +1,1 @@
-#Exercice pour apprendre à utiliser git
+Exercice pour apprendre à utiliser git
