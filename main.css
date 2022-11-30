@@ -1,3 +1,7 @@
 h1{
     align-items: center;
 }
+
+p{
+    align-items: flex-end;
+}
